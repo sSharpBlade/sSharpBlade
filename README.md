@@ -1,4 +1,4 @@
-<p align="left">Hola mundo!!!<br>Soy Edwin López estudiante de ingenieria en software en la UTA 🤙</p>
+<p align="left">Hola mundo!!!<br>Soy Edwin López estudiante de ingeniería en software en la UTA 🤙</p>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Técnologias que conozco:</p>
+<p align="left">Tecnologias que conozco:</p>
 
 ###
 
