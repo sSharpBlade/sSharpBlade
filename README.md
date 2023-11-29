@@ -8,6 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sSharpBlade&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssharpblade&show_icons=true&locale=en" alt="ssharpblade" /></p>
 </div>
 
 ###
