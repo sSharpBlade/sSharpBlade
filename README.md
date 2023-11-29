@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
+</div>
+
 <p align="left">Hola mundo!!!<br>Soy Edwin López estudiante de ingeniería en software en la UTA 🤙</p>
 
 ###
