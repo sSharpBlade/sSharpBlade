@@ -13,24 +13,20 @@
         <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="Linkedin" />
     </a>
     <a target="_blank" href="https://www.instagram.com/edwin2lopez" style="display:inline-block;">
-        <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23FF204E
-        " alt="Instagram" />
+        <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23FF204E" alt="Instagram" />
     </a>
     <a target="_blank" href="https://www.instagram.com/sharpblade5" style="display:inline-block;">
-        <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%236420aa
-        "
-        " alt="Instagram" />
+        <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%236420aa" alt="Instagram" />
     </a>
     <a target="_blank" href="https://www.youtube.com/@-sharpblade-831" style="display:inline-block;">
-        <img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23FF004D
-        " alt="Youtube" />
+        <img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23FF004D" alt="Youtube" />
     </a>
-    <a target="_blank" href="" style="display:inline-block;">
+    <!-- <a target="_blank" href="" style="display:inline-block;">
         <img src="" alt="" />
     </a>
     <a target="_blank" href="" style="display:inline-block;">
         <img src="" alt="" />
-    </a>
+    </a> -->
 </p>
 
 <hr>
@@ -39,7 +35,7 @@
 
 <h3 align="center">Sin música no se logra nada</h3>
 
-<img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=me37llnk2o5gkw0544jr3orav&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=09ff00&bar_color_cover=true" />
+<img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=me37llnk2o5gkw0544jr3orav&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 
 </div>
 
@@ -47,17 +43,11 @@
 
 <div align="center">
 
-<img src="
-https://github-readme-stats.vercel.app/api/top-langs/?username=ssharpblade&layout=donut-vertical&theme=dark&hide_border=true&locale=es
-">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssharpblade&layout=donut&theme=dark&hide_border=true&locale=es" style="margin-rigth:20px">
 
-<img src="
-https://github-readme-stats.vercel.app/api?username=ssharpblade&show_icons=true&theme=dark&hide_border=true&locale=es
-">
+<img src="https://github-readme-stats.vercel.app/api?username=ssharpblade&show_icons=true&theme=dark&hide_border=true&locale=es">
 
-<img src="
-https://github-profile-trophy.vercel.app/?username=ssharpblade&theme=onedark
-">
+<img src="https://github-profile-trophy.vercel.app/?username=ssharpblade&theme=onedark">
 
 </div>
 
