@@ -16,7 +16,7 @@
 ### Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edwin-lópez-9b8271275" target="_blank">
+  <a href="https://www.linkedin.com/in/edwin-lópez-yépez-9b8271275/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/edwin2lopez" target="_blank">
